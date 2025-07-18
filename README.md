@@ -1,4 +1,3 @@
-```markdown
 # ai-readme
 
 Welcome to the `ai-readme` project! This project is designed to streamline the process of creating high-quality README files for your projects using AI capabilities. Although currently without a detailed description, this project leverages powerful tools and libraries to simplify README creation.
